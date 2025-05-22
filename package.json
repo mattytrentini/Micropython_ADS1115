@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["ADS1115.py", "github:robert-hh/Micropython_ADS1115/ADS1115.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
